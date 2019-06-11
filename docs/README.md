@@ -33,6 +33,7 @@ To run the benchmarks, you will need:
 ```bash
 git clone https://github.com/openml/automlbenchmark.git
 cd automlbenchmark
+mkdir logs
 
 [optional: create a Python3 virtualenv]
   [using virtualenv]
